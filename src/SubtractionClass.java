@@ -22,7 +22,7 @@ public class SubtractionClass {
         for(int i=1;i<=list.size()-1;i++){
             sub=sub-(list.get(i));
         }
-        System.out.println("Your Division result is: "+sub);
+        System.out.println("Your Subtraction result is: "+sub);
 
     }
 }
